@@ -1,0 +1,15 @@
+.vscode
+.idea
+__pycache__/
+*.py[co]
+data/
+log/
+output/
+pretrained_models
+scripts/
+detail-api/
+data/list
+test_results/
+test_result_log.txt
+res.zip
+.ipynb_checkpoints/
