@@ -10,7 +10,7 @@ PRINT_FREQ: 10
 
 DATASET:
   DATASET: lip
-  ROOT: 'F:/Datasets/LIP/lip_for_test/'
+  ROOT: 'F:/Datasets/SinglePerson/final/'
   TEST_SET: 'valList.txt'
   TRAIN_SET: 'trainList.txt'
   NUM_CLASSES: 20
