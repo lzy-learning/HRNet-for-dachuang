@@ -1,3 +1,4 @@
+# The source address of this project is https://github.com/HRNet/HRNet-Semantic-Segmentation, and I have used this high-precision network for some semantic segmentation projects
 # High-resolution networks and Segmentation Transformer for Semantic Segmentation
 ## Branches
 - This is the implementation for HRNet + OCR.
